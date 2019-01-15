@@ -1,6 +1,6 @@
 # Twitter data mining - social media as a rising customer service channel 
 
-- [Thesis paper](https://github.com/RongSH/Twitter-data-mining/blob/master/TwitterDataMining.pdf)
+- [Presentation slides](https://github.com/SirongHuang/Twitter-data-mining/blob/master/Thesis%20presentation-SirongHuang.pdf)[Thesis paper](https://github.com/RongSH/Twitter-data-mining/blob/master/TwitterDataMining.pdf) 
 
 - Collect data from Twitter API using Python scripts that records the customer service interactions on major consumer electronic brands such as Apple and Samsung
 - Parse Json data objects in Python and organize tweets into customer service sessions with unique customers with Pandas
