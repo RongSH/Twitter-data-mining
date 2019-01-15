@@ -1,5 +1,4 @@
-# Twitter data mining 
-## - social media as a rising customer service channel 
+# Twitter data mining ## - social media as a rising customer service channel 
 
 - [Thesis paper](https://github.com/RongSH/Twitter-data-mining/blob/master/TwitterDataMining.pdf)
 
